@@ -1,0 +1,84 @@
+{
+    "dataset": "monthly_sales",
+    "description": "Sample sales data for testing the AI Data Visualizer pipeline.",
+    "columns": [
+        "date",
+        "sales",
+        "region",
+        "product"
+    ],
+    "rows": [
+        {
+            "date": "2024-01-01",
+            "sales": 12400,
+            "region": "North",
+            "product": "Widget A"
+        },
+        {
+            "date": "2024-02-01",
+            "sales": 15800,
+            "region": "South",
+            "product": "Widget A"
+        },
+        {
+            "date": "2024-03-01",
+            "sales": 13200,
+            "region": "North",
+            "product": "Widget B"
+        },
+        {
+            "date": "2024-04-01",
+            "sales": 17500,
+            "region": "East",
+            "product": "Widget A"
+        },
+        {
+            "date": "2024-05-01",
+            "sales": 14100,
+            "region": "West",
+            "product": "Widget B"
+        },
+        {
+            "date": "2024-06-01",
+            "sales": 19300,
+            "region": "South",
+            "product": "Widget C"
+        },
+        {
+            "date": "2024-07-01",
+            "sales": 21000,
+            "region": "North",
+            "product": "Widget C"
+        },
+        {
+            "date": "2024-08-01",
+            "sales": 18750,
+            "region": "East",
+            "product": "Widget B"
+        },
+        {
+            "date": "2024-09-01",
+            "sales": 22400,
+            "region": "West",
+            "product": "Widget A"
+        },
+        {
+            "date": "2024-10-01",
+            "sales": 25100,
+            "region": "South",
+            "product": "Widget C"
+        },
+        {
+            "date": "2024-11-01",
+            "sales": 23600,
+            "region": "North",
+            "product": "Widget A"
+        },
+        {
+            "date": "2024-12-01",
+            "sales": 28900,
+            "region": "East",
+            "product": "Widget C"
+        }
+    ]
+}
